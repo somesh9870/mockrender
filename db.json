@@ -8,10 +8,24 @@
       "gender": "Male"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Tommy",
       "age": 3,
       "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Bull Dog",
+      "age": 5,
+      "place": "Dehradun",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Golden Reteriver",
+      "age": 7,
+      "place": "Delhi",
       "gender": "Female"
     }
   ]
