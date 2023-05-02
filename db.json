@@ -59,5 +59,52 @@
       "Description": "Tata Altroz with all original documents",
       "Price": 500000
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1662130112_1367320.jpg?format=webp&w=1080&dpr=1.0",
+      "name": "Denim Jeans",
+      "description": "Good Product",
+      "gender": "Male",
+      "category": "Jeans",
+      "price": 2132
+    },
+    {
+      "id": 2,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1662130112_1367320.jpg?format=webp&w=1080&dpr=1.0",
+      "name": "Denim Shirt",
+      "description": "Good Product",
+      "gender": "Female",
+      "category": "Shirts",
+      "price": 3424
+    },
+    {
+      "id": 3,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1662130112_1367320.jpg?format=webp&w=1080&dpr=1.0",
+      "name": "Denim Jacket",
+      "description": "Good Product",
+      "gender": "Male",
+      "category": "Trousers",
+      "price": 5466
+    },
+    {
+      "id": 4,
+      "img": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1662130112_1367320.jpg?format=webp&w=1080&dpr=1.0",
+      "name": "Sweat shirt",
+      "description": "Good Product",
+      "gender": "Female",
+      "category": "Suits",
+      "price": 1222
+    },
+    {
+      "img": "https://cdn.shopify.com/s/files/1/0623/8850/2700/products/WM0033_750x1000.png?v=1654782386",
+      "name": "White shirt",
+      "desc": "cool white half shirt",
+      "gender": "Male",
+      "cat": "Shirts",
+      "price": "20000",
+      "id": 5
+    }
   ]
 }
