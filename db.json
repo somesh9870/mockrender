@@ -97,5 +97,25 @@
       "category": "Suits",
       "price": 1222
     }
+  ],
+  "users": [
+    {
+      "name": "Somesh rawat",
+      "score": 100,
+      "level": "medium",
+      "id": 1
+    },
+    {
+      "name": "Chandra",
+      "score": 200,
+      "level": "medium",
+      "id": 2
+    },
+    {
+      "name": "Kamal",
+      "score": 80,
+      "level": "easy",
+      "id": 3
+    }
   ]
 }
